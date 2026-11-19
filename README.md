@@ -3,7 +3,7 @@
 
 **Python Backend Developer | AI/ML Enthusiast**
 
-Python Backend Developer with hands-on experience building scalable applications, REST APIs, and AI-powered solutions. Former AI/ML Intern at **Bhabha Atomic Research Centre (BARC)**, working on RAG pipelines, semantic search, and LLM-based applications.
+Python Backend Developer with hands-on experience building scalable applications, REST APIs, and AI-powered solutions. Former **AI/ML Intern at Bhabha Atomic Research Centre (BARC)**, where I worked on RAG pipelines, semantic search, and LLM-based applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/chinmaya2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat&logo=firefox)](https://www.chinmaya.bond)
@@ -13,7 +13,9 @@ Python Backend Developer with hands-on experience building scalable applications
 
 ## 📈 GitHub Contributions
 
-![GitHub Contributions](./assets/contributions.png)
+<p align="center">
+  <img src="./assets/contributions.png" alt="GitHub Contributions" width="100%"/>
+</p>
 
 ---
 
@@ -25,18 +27,13 @@ Python Backend Developer with hands-on experience building scalable applications
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Chinmaya-Bindhani&theme=apprentice&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=Chinmaya-Bindhani&theme=apprentice&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chinmaya-Bindhani&theme=apprentice&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Chinmaya-Bindhani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=Chinmaya-Bindhani&theme=apprentice&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Chinmaya-Bindhani&theme=apprentice&hide_border=false" />
+</div>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chinmaya-Bindhani&icon=0&color=0)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chinmaya-Bindhani&icon=0&color=0" alt="Profile Views"/>
+</p>
