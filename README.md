@@ -1,10 +1,3 @@
-
-#  Hi, I'm Chinmaya Bindhani
-
-**Python Backend Developer | AI/ML Enthusiast**
-
-Python Backend Developer with hands-on experience building scalable applications, REST APIs, and AI-powered solutions. Former **AI/ML Intern at Bhabha Atomic Research Centre (BARC)**, where I worked on RAG pipelines, semantic search, and LLM-based applications.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/chinmaya2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat&logo=firefox)](https://www.chinmaya.bond)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:chinmayabindhani321@gmail.com)
